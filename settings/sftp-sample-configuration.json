@@ -1,0 +1,21 @@
+{
+    "name": "sportafrontend",
+    "context": "./sportafrontend",
+    "protocol": "sftp",
+    "host": "35.171.87.95",
+    "username": "victor",
+    "remotePath": "/home/victor/sporta/sportafrontend",
+    "uploadOnSave": true,
+    "ignore": [
+        ".vscode",
+        ".git",
+        ".DS_Store",
+        "./assets",
+        "./bin",
+        "./node_modules",
+        "./semantic",
+        "./static",
+        "./webpack"
+    ],
+    "privateKeyPath": "/home/alvarezp/.ssh/id_rsa"
+}
