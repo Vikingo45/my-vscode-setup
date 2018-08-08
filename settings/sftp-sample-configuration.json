@@ -6,6 +6,7 @@
     "username": "victor",
     "remotePath": "/home/victor/sporta/sportafrontend",
     "uploadOnSave": true,
+    "syncMode": "full",
     "ignore": [
         ".vscode",
         ".git",
