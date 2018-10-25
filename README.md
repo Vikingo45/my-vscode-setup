@@ -10,17 +10,25 @@ This repository contains my personal configuration for the awesome and extensibl
 For the moment, these are the extensions I have installed in my VSCode:  
 
 * [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools): Intellisense, debugging, and code browsing.
+* [Date & Time](https://marketplace.visualstudio.com/items?itemName=rid9.datetime): Displays a clock and date information in the status bar.
+* [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer): View Excel spreadsheets and CSV files within Visual Studio Code workspaces.
+* [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 * [Highlight-Matching-Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag): Highlights matching opening and closing tags.
 * [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow): Makes indentation easier to read.
 * [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local server with live reload feature for static & dynamic pages.
+* [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf): Convert Markdown to PDF.
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme): Material Design Icons for Visual Studio Code.
+* [pgsql-html](https://marketplace.visualstudio.com/items?itemName=hubertstrk.pgsql-html): Postgres language support, snippets, runner, html preview.
 * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python): Linting, debugging, Intellisense, code formatting, refactoring, unit tests, snippets, and more.
+* [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv): Highlight CSV and TSV files in different colors, Run SQL-like queries.
 * [SFTP](https://marketplace.visualstudio.com/items?itemName=liximomo.sftp): SFTP/FTP sync client.
 * [Spell Right](https://marketplace.visualstudio.com/items?itemName=ban.spellright): Multilingual, Offline and Lightweight Spellchecker.
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight): Highlights TODOs, FIXMEs, and any keywords, annotations.
 * [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces): Highlight trailing spaces and delete them in a flash!
 * [Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim): Vim emulation for Visual Studio Code.
 * [VS Code Jupyter Notebook Previewer](https://marketplace.visualstudio.com/items?itemName=jithurjacob.nbpreviewer): An extension for supercharging your Data Science workflow by previewing Jupyter Notebook within VS Code. View graphs and interact with Plotly visualizations from within VS Code.
+* [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf): Display pdf file in VSCode.
+
 
 All these extensions can be installed at once by running [install-extensions.sh](./scripts/install-extensions.sh) from a terminal window.  
 
